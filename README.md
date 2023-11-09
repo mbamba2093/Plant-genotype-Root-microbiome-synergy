@@ -2,6 +2,7 @@
 
 ---
 
+
 # R Scripts for "Synergistic effects of plant genotype and soil microbiome on growth in _Lotus japonicus_"
 
 This repository contains the R scripts used in the analysis for the paper in the submission process titled "Synergistic effects of plant genotype and soil microbiome on growth in _Lotus japonicus_" by Bamba _et al_. These scripts encompass all the code utilized for the microbial community analysis and plant phenotypic analysis as described in the paper.
